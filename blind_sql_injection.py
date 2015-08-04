@@ -1,3 +1,8 @@
+# SQL Injection : 용자의 입력 중 db를 거치는 input에 SQL 구문을 넣어줌으로써 구문 자체를 제어하는 공격
+# Blind SQL Injection : SQL Injection을 통해 query의 참과 거짓만을 알 수 있을 때, database에서 data를 얻어내는 공격
+# [문제]
+#  python으로 Blind SQL Injection script를 작성하여 admin의 비밀번호를 알아내세요.
+
 # -*- coding: utf-8 -*-
 import requests
 
