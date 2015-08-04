@@ -17,6 +17,7 @@ hacking with python
   $pip install requests
   ```
 3. BeatifulSoup 패키지
+
   ```
   $pip install BeautifulSoup
   ```
